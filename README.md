@@ -1,1 +1,1 @@
-# Telecom_Churn_Pred
+This project is about analyzing customer churn in a telecom company. The dataset includes various features such as gender, age, services subscribed to, contract type, monthly charges, total charges, etc. The goal is to understand the factors influencing customer churn and to build a model that can predict whether a customer is likely to churn or not. By identifying patterns in customer behavior and preferences, the company can take proactive measures to retain customers and improve customer satisfaction.
